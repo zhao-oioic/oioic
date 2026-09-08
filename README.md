@@ -1,5 +1,5 @@
 # oioic
-OIOIC，中文名“道智编程”，全新全功能C语言OOP技术，大道至简，遵行天道的高智慧编程技术！   
+OIOIC，中文名“道智编程”，高智慧编程语言，完全兼容C语言，完美实现全新全功能OOP技术！OIOIC道智编程，大道至简，遵行天道的高智慧编程语言。   
 
 【 OIOIC版权声明 】  
 1. OIOIC属于所有人，所有人都应该关心爱护发展OIOIC道智编程。
@@ -13,4 +13,4 @@ OIOIC，中文名“道智编程”，全新全功能C语言OOP技术，大道�
 2011年‌：项目在Google Code平台迭代更新至1.0.18版本。
 后来托管地址code.google.com/p/oioic已随Google Code平台关停。
 【注】该项目全程为OIOIC作者赵平智主导，并非Google官方推出的产品。
-2026年：作者赵平智在Gitee和GitHub重新发布OIOIC项目，并为OIOIC起了中文名“道智编程”。
+2026年：作者赵平智在Gitee和GitHub重新发布OIOIC项目，并为OIOIC起了中文名“道智编程”，定义OIOIC是高智慧编程语言，完全兼容C语言。
